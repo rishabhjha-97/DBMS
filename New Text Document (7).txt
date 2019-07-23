@@ -1,0 +1,20 @@
+
+<html>
+<form action="customer.php">
+customer_id:<br>
+<input type="text"name="customer_id"><br>
+customer_meter_no:<br>
+<input type="text"name="customer_meter_no"<br>
+<br>connection_id:<br>
+<input type="text"name="connection_id"<br>
+<br>tarrif_id:<br>
+<input type="text"name="tarrif_id"<br>
+<br>phone_no:<br>
+<input type="text"name="phone_no"<br>
+<br>email:<br>
+<input type="text"name="email"<br>
+<br><input type="submit" value="Submit"style="font_size:7pt;color:white;background-color:green"><tr>
+<input type="reset" value="Reset"style="font_size:7pt;color:white;background-color:maroon"><br>
+
+</form>
+</html>
